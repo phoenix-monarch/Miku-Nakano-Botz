@@ -33,7 +33,7 @@
 
 ### ╒═══「 Creator Info/Credits 」
 
-+  [Hodaka](https://github.com/Kazuya) : OWNER | DEV
++  [kazuya](https://github.com/kazuyakun07/) : OWNER | DEV
 +  [Rajkumar](https://github.com/) : BASE
 +  [Dank-del](https://github.com/Dank-del) : BASE 
 
