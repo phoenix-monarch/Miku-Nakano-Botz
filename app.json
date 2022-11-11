@@ -1,15 +1,15 @@
 {
-      "name": "Fallen Robot",
+      "name": "miku nakano",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://telegra.ph/file/72e135da30a1a349f2844.jpg",
+      "logo": "https://te.legra.ph/file/971325c2d827fb5b43546.jpg",
       "keywords": [
          "telegram",
          "sexy",
          "group",
          "manager",
-         "Fallen"
+         "miku"
       ],   
-   "repository": "https://github.com/TheAnonymous2005/FallenRobot",
+   "repository": "https://github.com/kazuyakun07/Miku-Nakano-Botz",
    "stack": "heroku-20",
    "addons": [
       {
@@ -140,9 +140,9 @@
          "value": "True"
       },
       "DONATION_LINK": {
-         "description": "Link where you would like to receive donations. If you are a noob, better leave it linking to Anonymous",
+         "description": "Link where you would like to receive donations. If you are a noob, better leave it linking to kazuya",
          "required": false,
-         "value": "https://t.me/anonymous_was_bot"
+         "value": "https://t.me/X_E_N_0_X"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
