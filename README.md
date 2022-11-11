@@ -45,7 +45,7 @@ This repo was just reamped to suit an Anime-centric community. All original cred
 
 ### ╒═══「 Support Group 」 
 
-The Support group can be reached out to at [Miku • Support](https://t.me/MikusSupport), where you can ask for help about [Miku Nakano](https://t.me/Mikuxprobot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [Miku • Support](https://t.me/+qdZM-5aNFlxmZjg9), where you can ask for help about [Miku Nakano](https://t.me/Mikuxprobot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 <details>
 	<summary>Heroku Deploy</summary>
@@ -80,7 +80,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 
 Edit Config.py with your own Values
 
-Start with ```python -m MikuXProBot```
+Start with ```python -m miku_management_bot```
 
 </details>    
 
