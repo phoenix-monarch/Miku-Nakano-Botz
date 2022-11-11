@@ -33,8 +33,8 @@
 
 ### ╒═══「 Creator Info/Credits 」
 
-+  [Hodaka](https://github.com/h0daka) : OWNER | DEV
-+  [Rajkumar](https://github.com/Awesome-RJ) : BASE
++  [Hodaka](https://github.com/Kazuya) : OWNER | DEV
++  [Rajkumar](https://github.com/) : BASE
 +  [Dank-del](https://github.com/Dank-del) : BASE 
 
 ╘══「 Any other authorship/credits can be seen through the commits. 」
