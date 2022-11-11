@@ -27,7 +27,7 @@
 + [x] Heroku Deploy
 + [x] Docker/Local Machine
 
-╘══「 Can be found on telegram as [Miku Nakano](https://t.me/Mikuxprobot) 」
+╘══「 Can be found on telegram as [Miku Nakano](https://t.me/miku_management_bot) 」
 
 ![Miku](https://telegra.ph/file/9d78988131658606a3d57.jpg)
 
