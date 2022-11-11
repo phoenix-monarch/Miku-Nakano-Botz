@@ -56,7 +56,7 @@ The Easiest Way to Deploy This Bot is Via Heroku.
 	
   <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/h0daka/Miku-Nakano">
+        <a href="https://heroku.com/deploy?template=https://github.com/kazuyakun07/Miku-Nakano-Botz">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
